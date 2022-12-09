@@ -1,4 +1,7 @@
 
+#include "lib.h"
+
+using namespace std;
 
 
 float maggiore(float array[], int dimensione)
